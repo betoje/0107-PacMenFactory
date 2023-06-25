@@ -41,7 +41,7 @@
   <a href="#dart-acerca">Acerca</a> &#xa0; | &#xa0; 
   <a href="#sparkles-caracteristicas">Caracteristicas</a> &#xa0; | &#xa0;
   <a href="#boom-mejoras">Mejoras</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias>Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimientos">Requerimientos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-instrucciones">Instrucciones</a> &#xa0; | &#xa0;
   <a href="#memo-licencia">Licencia</a> &#xa0; | &#xa0;
