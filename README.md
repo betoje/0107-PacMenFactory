@@ -59,7 +59,7 @@ Proyecto para fabricar figuras de PacMan que luego se mueven en forma aleatoria 
 
 ## :boom: Mejoras ##
 
-:white_check_mark: Esta versión del proyecto usa solo una de las cuatro figuras de PacMan. Futuras versiones usarán las 4 figuras dependiendo de la dirección en que se mueve la figura. 
+:ballot_box_with_check: Esta versión del proyecto usa solo una de las cuatro figuras de PacMan. Futuras versiones usarán las 4 figuras dependiendo de la dirección en que se mueve la figura. 
 
 ## :rocket: Tecnologias ##
 
