@@ -9,8 +9,7 @@
 
 > Fábrica para crear figuras de PacMan
 >
->> El botón "Add PacMan" se presiona para posicionar una
- nueva figura de PacMan
+>> El botón "Add PacMan" se presiona para posicionar una nueva figura de PacMan
 >>
 >> El botón "Sart Game" se presiona para iniciar el movimiento de las figuras PacMan posicionadas en la pantalla
 >>> Cada PacMan debe rebotar cuando encuentra una pared
@@ -51,7 +50,7 @@
 ---
 ## :dart: Acerca ##
 
-Proyecto para fabricar figuras de PacMan que luego se mueven en forma aleatoria en la pantalla
+Proyecto para fabricar figuras de PacMan que luego se mueven en forma aleatoria en la pantalla, rebotando cuando encuentran una pared.
 
 ## :sparkles: Caracteristicas ##
 
