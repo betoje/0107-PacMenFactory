@@ -16,12 +16,12 @@
 >>> Cada PacMan debe rebotar cuando encuentra una pared
   
 ---
-<img src="PacMen.jpg" style="width: 500px; height: 380px" >
+<img src="./images/PacMen.jpg" style="width: 500px; height: 380px" >
 
 ---
 
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="0109-RealTimeBusTracker" />
+  <img src="./.github/app.gif" alt="0107-PacMenFactory" />
   &#xa0;
 </div>
 
