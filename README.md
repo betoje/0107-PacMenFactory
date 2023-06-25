@@ -40,6 +40,7 @@
 <p align="center">
   <a href="#dart-acerca">Acerca</a> &#xa0; | &#xa0; 
   <a href="#sparkles-caracteristicas">Caracteristicas</a> &#xa0; | &#xa0;
+  <a href="#sparkles-mejoras">Mejoras</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias>Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimientos">Requerimientos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-instrucciones">Instrucciones</a> &#xa0; | &#xa0;
@@ -54,7 +55,11 @@ Proyecto para fabricar figuras de PacMan que luego se mueven en forma aleatoria 
 
 ## :sparkles: Caracteristicas ##
 
-:heavy_check_mark: Se opera con 4 figuras de PacMan
+:heavy_check_mark: El proyecto utiliza JS para manipular el DOM y mover en la pantalla una de las cuatro figuras de PacMan.
+
+## :boom: Mejoras ##
+
+:white_check_mark: Esta versión del proyecto usa solo una de las cuatro figuras de PacMan. Futuras versiones usarán las 4 figuras dependiendo de la dirección en que se mueve la figura. 
 
 ## :rocket: Tecnologias ##
 
